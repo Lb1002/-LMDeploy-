@@ -33,8 +33,15 @@
 ![image](https://github.com/Lb1002/-LMDeploy-/assets/51111702/6d1e41d8-e306-49dc-a279-c508fd7e7a69)
 
 5、拓展
-内存不够
-![image](https://github.com/Lb1002/-LMDeploy-/assets/51111702/7445da7d-74ee-4d94-bc4f-872dc8799373)
+![image](https://github.com/Lb1002/-LMDeploy-/assets/51111702/6bbb4e19-d2fa-44e0-9fa8-294fef1ca21c)
+
+![image](https://github.com/Lb1002/-LMDeploy-/assets/51111702/d97fd286-50a1-4e4d-9ab4-03a250f77117)
+
+
+
+
+
+
 
 
 
